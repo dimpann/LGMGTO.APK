@@ -1,10 +1,9 @@
 {
-  "latestVersion": "1.0.2",
-  "latestVersionCode": 102,
+  "latestVersion": "1.0.3",
+  "latestVersionCode": 103,
   "url": "https://github.com/dimpann/LGMGTO.APK/raw/main/LGMG%20T-O.apk",
   "releaseNotes": [
-    "- First evolution",
-    "- Second evolution",
-    "- Bug fixes"
+    "- AUTOUPDATE FEATURE",
+    "- ACFT ICAO TYPE DESIGNATOR"
   ]
 }
