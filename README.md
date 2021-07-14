@@ -1,5 +1,8 @@
 # LGMGTO.APK
 
+v1.0.4
+ΠΡΟΣΤΕΘΗΚΑΝ ΤΑ ΠΑΡΑΚΑΤΩ ΑΦΟΙ:Cherry BX2, Robin DR400
+
 v1.0.3
 ΠΡΟΣΤΕΘΗΚΑΝ ΤΑ ΠΑΡΑΚΑΤΩ ΑΦΟΙ:Cessna 240, ICON A-5 LSA, Piper PA-46, Cessna CITATION
 
