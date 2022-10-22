@@ -1,5 +1,8 @@
 # LGMGTO.APK
 
+v1.0.7
+-ΔΙΟΡΘΩΘΗΚΑΝ ΟΙ ΤΙΜΕΣ ΤΩΝ ΑΦΩΝ 
+
 v1.0.6
 -ΠΡΟΣΤΕΘΗΚΑΝ ΤΑ ΠΑΡΑΚΑΤΩ ΑΦΟΙ: Diamond DA62, Glasair SIIS,Aveko VL3,Piper PA-28-181 Archer 3,Lancair legacy,Aerospool WT9 Dynamic, Piper PA-44-180 Seminole, Vans RV7
 
