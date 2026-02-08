@@ -1,5 +1,8 @@
 # LGMGTO.APK
 
+v1.0.8
+-ΠΡΟΣΤΕΘΗΚΑΝ ΤΑ ΠΑΡΑΚΑΤΩ ΑΦΟΙ: Reims-Cessna FA150K Aerobat, Cessna/Reims F406 Caravan II,Cessna CJ2 Citation (C-525A),Cessna T303,Cirrus SF50 Vision Jet,Daher TBM 700 X2, Daher TBM 960, Found Aircraft FBA-2C4 EXpedition E350X, Jabiru J-160C, Mooney M20F,Piper PA-46-350P Malibu Mirage,Piper PA-46-600TP M600,Piper PA-60 Aerostar,PS-28 Cruiser,Rockwell Velocity 112A,Rockwell Velocity 114, Socata TBM 700C2, Super King Air B300, Tecnam Astore, Tecnam P2002 P Mentor
+
 v1.0.7
 -ΔΙΟΡΘΩΘΗΚΑΝ ΟΙ ΤΙΜΕΣ ΤΩΝ ΑΦΩΝ 
 
